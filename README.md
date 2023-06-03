@@ -5,3 +5,6 @@ It will be pushed onto github completely locally
 ## Follow these steps
 
 1. Open index.html file with vs code.
+2. This is second, I am going to pull this change locally on vs code
+
+### This should complete it
