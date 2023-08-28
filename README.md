@@ -8,3 +8,4 @@ It will be pushed onto github completely locally
 2. This is second, I am going to pull this change locally on vs code
 
 ### This should complete it
+The .gitignore should work
