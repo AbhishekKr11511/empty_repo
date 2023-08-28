@@ -9,3 +9,5 @@ It will be pushed onto github completely locally
 
 ### This should complete it
 The .gitignore should work now
+
+Added a index.css file for some dummy styles
